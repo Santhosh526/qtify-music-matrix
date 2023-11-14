@@ -5,17 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://yt3.googleusercontent.com/VmVK1f7pIiYM2uUisB2KaVBS_G7gqXWrr1Z-DL7EvcgJ85LQBHOBnQuiJrxryYRqqwZsiYJY=s900-c-k-c0x00ffffff-no-rj" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Music Matrix
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://music.youtube.com/watch?v=VzT2xurZrbI"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Explore...!
         </a>
       </header>
     </div>
