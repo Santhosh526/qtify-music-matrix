@@ -1,0 +1,11 @@
+.tab{
+    color: var(--css-white) !important;
+    font-weight: bold !important;
+}
+
+.MuiTabs-indicator{
+    width: 68px;
+    height: 4px;
+    border-radius: 2px;
+    background-color: var(--css-primary);
+}
